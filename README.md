@@ -21,8 +21,8 @@ Explore the code behind the magic: [GitHub Repository](https://github.com/your-u
 
 ## 🛠️ **Tech Stack**  
 
-| Frontend       | Backend          | Hosting       | Tools         |  
-|----------------|------------------|---------------|---------------|  
-| HTML, CSS      |                  | Netlify       | Git, VS Code  |  
-| JavaScript     |                  |               |               |  
+| Frontend       | Hosting          | Tools         |  
+|----------------|------------------|---------------|  
+| HTML, CSS      | Netlify          | Git, VS Code  |  
+| JavaScript     |                  |               |  
 
