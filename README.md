@@ -3,10 +3,10 @@
 🌟 Welcome to my personal portfolio! This is where creativity meets code, and where I showcase my journey as a software developer, backend enthusiast, and website designer.  
 
 ## 🌐 **Live Website**  
-Take a peek at my portfolio: [Live Demo on Netlify](https://your-netlify-url.netlify.app)  
+Take a peek at my portfolio: [Live Demo on Netlify](https://amit-98-portfolio.netlify.app/)  
 
 ## 💻 **GitHub Repository**  
-Explore the code behind the magic: [GitHub Repository](https://github.com/your-username/your-repo-name)  
+Explore the code behind the magic: [GitHub Repository](https://github.com/Amit-98/Portfolio)  
 
 ---
 
