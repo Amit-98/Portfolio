@@ -5,7 +5,8 @@
     "image": "portfolio1",
     "category": "basicweb",
     "links": {
-      "view": "https://amit-y.netlify.app/"
+      "view": "https://amit-y.netlify.app/",
+      "code": "https://amit-y.netlify.app/"
     }
   },
   {
