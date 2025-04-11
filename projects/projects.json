@@ -5,18 +5,18 @@
     "image": "portfolio1",
     "category": "basicweb",
     "links": {
-      "view": "https://amit-y.netlify.app/",
-      "code": "https://amit-y.netlify.app/"
+      "view": "https://amit-y.netlify.app",
+      "code": "https://github.com/Amit-98/Portfolio"
     }
   },
   {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
+    "name": "Expense Tracker",
+    "desc": "💰 Expense Tracker Your personal finance companion - simple, elegant, effective.",
+    "image": "portfolio2",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://royserg.github.io/expense-tracker/",
+      "code": "https://github.com/Amit-98/expense-tracker"
     }
   },
   {
